@@ -1,5 +1,5 @@
-var log = function (value) {
-	console.log(value)
+var log = function(text){
+	console.log(text)
 }
 
-export default log
+export default log	
